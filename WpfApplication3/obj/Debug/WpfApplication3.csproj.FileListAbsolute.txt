@@ -1,0 +1,13 @@
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\MainWindow.baml
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\MainWindow.g.cs
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\App.g.cs
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\bin\Debug\WpfApplication3.exe
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.exe
+e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.pdb
