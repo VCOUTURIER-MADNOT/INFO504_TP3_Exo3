@@ -47,6 +47,12 @@ namespace WpfApplication3
         [DllImport("kernel32")]
         static extern bool GetVersionEx(ref OSVERSIONINFO osvi);
 
+        [DllImport("user32.dll")]
+        public extern static int GetCaretBlinkTime();
+
+        [DllImport("user32.dll")]
+        public extern static int SetCaretBlinkTime(int wMSeconds);
+        
         public MainWindow()
         {
             InitializeComponent();
@@ -87,6 +93,29 @@ namespace WpfApplication3
             return GetVersionEx(ref os) ? (int)os.dwBuildNumber : -1;
             //return GetVersionEx(ref os) ? (int)os.dwMajorVersion : -1;
             //return GetVersionEx(ref os) ? (int)os.dwMinorVersion : -1;
+        }
+
+        public void setCursorBlinkTime(int millisec)
+        {
+            SetCaretBlinkTime(millisec);
+        }
+
+        public int getCursorBlinkTime()
+        {
+            return GetCaretBlinkTime();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if(this.cursorBlinkTime.Text.Equals(""))
+            {
+                this.cursorBlinkTime.Text = this.getCursorBlinkTime().ToString();
+            }
+            else
+            {
+                this.setCursorBlinkTime(int.Parse(this.cursorBlinkTime.Text));
+            }
+            
         }
 
     }

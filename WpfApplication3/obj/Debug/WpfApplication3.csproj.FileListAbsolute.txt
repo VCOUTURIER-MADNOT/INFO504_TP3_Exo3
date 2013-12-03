@@ -11,3 +11,16 @@ e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplic
 e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
 e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.exe
 e:\utilisateurs\documents\visual studio 2013\Projects\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\App.g.cs
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\Users\valentin\Documents\GitHub\INFO504_TP3_Exo3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
